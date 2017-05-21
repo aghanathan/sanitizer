@@ -1,4 +1,4 @@
-#Sanitizer
+# Sanitizer
 Sanitize your Login form for more secure
 
 <strong>Sanitize $_GET or $_POST parameters to avoid XSS and other attacks</strong>
