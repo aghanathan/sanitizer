@@ -1,6 +1,7 @@
 # Sanitizer
 Sanitize your Login form for more secure
 
+<img src='https://github.com/aghanathan/sanitizer/blob/master/preview.png'/>
 
 <u><strong>Sanitize $_GET or $_POST parameters to avoid XSS and other attacks</strong></u>
 
